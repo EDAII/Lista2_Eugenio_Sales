@@ -7,6 +7,7 @@ O trabalho consiste em demonstrar uma comparação de tempo de execução entre 
 - Ative com `source env/bin/activate`
 - Instale os requirimentos `pip install -r requirements.txt`
 - Execute o servidor web gunicorn `gunicorn app:app --bind 0.0.0.0:5000 --reload`
+- Acesso `localhost:5000` no browser
 
 ## Execução
 1) Insira o valor máximo do array, a partir desse número serão gerados valores aleatórios para a amostra
