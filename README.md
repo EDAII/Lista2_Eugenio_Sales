@@ -6,7 +6,7 @@ O trabalho consiste em demonstrar uma comparação de tempo de execução entre 
 - Crie um arquivo virtualenv `virtualenv -p python3 env`
 - Ative com `source env/bin/activate`
 - Instale os requirimentos `pip install -r requirements.txt`
-- Execute o servidor web gunicorn `gunicorn app:app --bind 0.0.0.0:5000 --reload`
+- Execute o servidor com `python3 app.py`
 - Acesso `localhost:5000` no browser
 
 ## Execução
