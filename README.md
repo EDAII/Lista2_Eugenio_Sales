@@ -1,8 +1,12 @@
-# Comparador de Método de Busca
+# Temporizador de ordenação
 
 O trabalho consiste em demonstrar uma comparação de tempo de execução entre os métodos de ordenação: Bubble Sort, Shell Sort, Selection Sort e Insetion Sort
 
-## Execute locamente com virtualenv
+## Abra com o Link
+
+- Temporizador de ordenação: https://temporizador-ordenacao.herokuapp.com/
+
+## Ou execute locamente com virtualenv
 - Crie um arquivo virtualenv `virtualenv -p python3 env`
 - Ative com `source env/bin/activate`
 - Instale os requirimentos `pip install -r requirements.txt`
